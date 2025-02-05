@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReactFinaluri_ShalvaKevkhishvili.github.io
 
 
@@ -47,3 +48,6 @@ npm install
 npm start
 
 აპი გაეშვება : http://localhost:3000.
+=======
+# ReactFinaluri2025
+>>>>>>> de5a3e29bde9c2ce41c7995de1844080f30a50d9
